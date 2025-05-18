@@ -28,35 +28,35 @@ This project is a contactless IoT-based product scanner designed to simplify inv
   - Reads and writes data to RFID tags within approx. 5cm
   - Supports SPI, I2C, UART
 - **Role in project:** Detects RFID keys, identifies products, and triggers addition or removal of items.
-![RFID-RC522 Module](images/RFID-RC522 Module.jpg)
+![RFID-RC522 Module](images/RFID-RC522-Module.jpg)
 
 ---
 
 ### 3. 16x2 LCD Liquid Crystal Display
 - **Description:** Displays text and numerical data in two rows and sixteen columns.
 - **Role in project:** Shows product names, individual prices, and the total amount dynamically.
-![](images/lcd_16x2.jpg)
+![16x2 LCD Liquid Crystal Display](images/16x2LCDLiquidCrystalDisplay.jpg)
 
 ---
 
 ### 4. Buzzer
 - **Description:** Generates audio signals.
 - **Role in project:** Provides pre-set sounds for successful scan, errors, or user prompts.
-![](images/buzzer.jpg)
+![Buzzer](images/Buzzer.jpg)
 
 ---
 
 ### 5. Breadboard & Connecting Wires
 - **Description:** Prototyping platform for solderless connections.
 - **Role in project:** Connects all components to Arduino Uno securely.
-![](images/breadboard_setup.jpg)
+![Breadboard & Connecting Wires](images/Breadboard.jpg)
 
 ---
 
 ### 6. RFID Key Fobs
 - **Description:** Small contactless tags with unique IDs.
 - **Role in project:** Identify individual products. Each key includes product info like name and price internally or via a database mapping.
-![](images/rfid_keys.jpg)
+![RFID Key Fobs  ](images/RFIDKeyFobs.jpg)
 
 ---
 
