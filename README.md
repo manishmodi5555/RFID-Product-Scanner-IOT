@@ -77,7 +77,7 @@ This system creates an interactive shopping or inventory environment, where RFID
 - The **first file** simply tests the LCD by printing "Hello World".
 - The **second file** is the functional project code that handles RFID detection, product updates, and display management.  
 
-*Insert diagram or wiring schematic here*
+![arduino circuit display hellow word ](images/3.jpg.jpg)
 
 ---
 
