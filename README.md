@@ -90,7 +90,10 @@ This system creates an interactive shopping or inventory environment, where RFID
   ![Table2](images/connection.png)
 
 ### Circuit:
-  ![arduino circuit ](images/3.jpg)
+-   ![arduino circuit ](images/3.jpg)
+-   ![arduino circuit ](images/5.jpg)
+-   ![arduino circuit ](images/7.jpg)
+
 
 
 ## Demonstration Videos
