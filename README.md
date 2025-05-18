@@ -28,7 +28,7 @@ This project is a contactless IoT-based product scanner designed to simplify inv
   - Reads and writes data to RFID tags within approx. 5cm
   - Supports SPI, I2C, UART
 - **Role in project:** Detects RFID keys, identifies products, and triggers addition or removal of items.
-![](images/rfid_rc522.jpg)
+![RFID-RC522 Module](images/RFID-RC522 Module.jpg)
 
 ---
 
