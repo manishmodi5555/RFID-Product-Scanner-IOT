@@ -100,7 +100,7 @@ This system creates an interactive shopping or inventory environment, where RFID
 
  
 - **Video 2:** RFID reading and display update process ,Add and remove product with scanned keys  
-     ![arduino circuit ](images/VID_20250516_181401.mp4)
+     ![arduino circuit ](images/video.mp4)
 
 
 
