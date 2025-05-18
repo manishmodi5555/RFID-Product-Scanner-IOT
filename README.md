@@ -42,7 +42,7 @@ This project is a contactless IoT-based product scanner designed to simplify inv
 ### 4. Buzzer
 - **Description:** Generates audio signals.
 - **Role in project:** Provides pre-set sounds for successful scan, errors, or user prompts.
-![Buzzer](images/Buzzer.jpg)
+![Buzzer](images/Buzzer.png)
 
 ---
 
