@@ -28,14 +28,14 @@ This project is a contactless IoT-based product scanner designed to simplify inv
   - Reads and writes data to RFID tags within approx. 5cm
   - Supports SPI, I2C, UART
 - **Role in project:** Detects RFID keys, identifies products, and triggers addition or removal of items.
-![RFID-RC522 Module](images/RFID-RC522-Module.jpg)
+![RFID-RC522 Module](images/RFID-RC522-Module.png)
 
 ---
 
 ### 3. 16x2 LCD Liquid Crystal Display
 - **Description:** Displays text and numerical data in two rows and sixteen columns.
 - **Role in project:** Shows product names, individual prices, and the total amount dynamically.
-![16x2 LCD Liquid Crystal Display](images/16x2LCDLiquidCrystalDisplay.jpg)
+![16x2 LCD Liquid Crystal Display](images/16x2LCDLiquidCrystalDisplay.png)
 
 ---
 
