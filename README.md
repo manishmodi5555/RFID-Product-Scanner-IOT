@@ -83,7 +83,10 @@ This system creates an interactive shopping or inventory environment, where RFID
 ### Arduino Connections table:
 - Turn On the LCD with "hellow world"
   ![Table](images/helllo_word_connection.jpg)
+
+  
 - Turn On the LCD with "Scan Product and total price"
+  
   ![Table2](images/connection.png)
 
 ### Circuit:
@@ -94,7 +97,7 @@ This system creates an interactive shopping or inventory environment, where RFID
 
  
 - **Video 2:** RFID reading and display update process ,Add and remove product with scanned keys  
-     ![arduino circuit ](images/VID_20250516_181401.mp4
+    
      html<br><video src="VID_20250516_181401.mp4" controls width="600"></video><br>
 
 
