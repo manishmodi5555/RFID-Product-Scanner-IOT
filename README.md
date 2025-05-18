@@ -77,20 +77,25 @@ This system creates an interactive shopping or inventory environment, where RFID
 - The **first file** simply tests the LCD by printing "Hello World".
 - The **second file** is the functional project code that handles RFID detection, product updates, and display management.  
 
-![arduino circuit display hellow word ](images/3.jpg)
+
 
 ---
+### Arduino Connections table:
+- Turn On the LCD
+  ![Table](images/helllo_word_connection.jpg)
+- 
+  ![Table2](images/connection.png)
+
+### Circuit:
+  ![arduino circuit ](images/3.jpg)
+
 
 ## Demonstration Videos
 
-- **Video 1:** LCD "Hello World" test  
-  *(Insert video link or embed)*
+ 
+- **Video 2:** RFID reading and display update process ,Add and remove product with scanned keys  
+     ![arduino circuit ](images/VID_20250516_181401.mp4.jpg)
 
-- **Video 2:** RFID reading and display update process  
-  *(Insert video link or embed)*
-
-- **Video 3:** Add and remove product with scanned keys  
-  *(Insert video link or embed)*
 
 ---
 
