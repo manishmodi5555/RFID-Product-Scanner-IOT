@@ -18,7 +18,7 @@ This project is a contactless IoT-based product scanner designed to simplify inv
   - 6 analog inputs
   - USB port for programming and powering
 - **Role in project:** Acts as the main controller, managing RFID reading, LCD display updates, and buzzer alerts.
-![](images/Arduino UNO R3 Board.jpg)
+![ArduinoUNOR3Board](images/ArduinoUNOR3Board.jpg)
 
 ---
 
