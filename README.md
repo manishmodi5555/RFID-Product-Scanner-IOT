@@ -103,14 +103,7 @@ This system creates an interactive shopping or inventory environment, where RFID
      ![arduino circuit ](images/VID_20250516_181401.mp4)
 
 
-  <video src="images/VID_20250516_181401.mp4"
-       width="600"
-       controls   <!-- adds the play bar -->
-       loop       <!-- repeats -->
-       muted      <!-- handy for autoplay -->
-       playsinline>
-  Sorry—your browser doesn’t support embedded videos.
-</video>
+
 
 ---
 
